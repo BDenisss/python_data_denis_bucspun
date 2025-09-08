@@ -1,3 +1,9 @@
+# 02 – Python pour la Data — Football Matches 2024/25 (Top Leagues)
+Projet d’analyse de données en Python (Pandas).  
+
+---
+
+
 ## Données & licence
 
 - **Source** : Kaggle — *Football Matches 2024/2025 – Top 5 Leagues* (Auteur : Tarek Masry).
